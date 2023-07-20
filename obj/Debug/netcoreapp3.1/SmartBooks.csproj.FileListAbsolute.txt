@@ -1,0 +1,109 @@
+E:\sql\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.exe
+E:\sql\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.deps.json
+E:\sql\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.runtimeconfig.json
+E:\sql\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.runtimeconfig.dev.json
+E:\sql\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.dll
+E:\sql\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.pdb
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.AssemblyReference.cache
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.SmartBooks.resources
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.GenerateResource.cache
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.GeneratedMSBuildEditorConfig.editorconfig
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.AssemblyInfoInputs.cache
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.AssemblyInfo.cs
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.CoreCompileInputs.cache
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.dll
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.pdb
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.genruntimeconfig.cache
+E:\sql\App\SmartBooks\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\sql\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\sql\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\sql\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\sql\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\sql\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.CopyComplete
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Livraria.resources
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Livro.resources
+E:\sql\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Utilizador.resources
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.exe
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.deps.json
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.runtimeconfig.json
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.runtimeconfig.dev.json
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.dll
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.pdb
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.AssemblyReference.cache
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.CodigoPostal.resources
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Livraria.resources
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Livro.resources
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.SmartBooks.resources
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Utilizador.resources
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.GenerateResource.cache
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.AssemblyInfoInputs.cache
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.AssemblyInfo.cs
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.CoreCompileInputs.cache
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.CopyComplete
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.dll
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.pdb
+C:\Users\RikitoGaymer\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.genruntimeconfig.cache
+C:\Users\rkt\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.exe
+C:\Users\rkt\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.deps.json
+C:\Users\rkt\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.runtimeconfig.json
+C:\Users\rkt\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.runtimeconfig.dev.json
+C:\Users\rkt\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.dll
+C:\Users\rkt\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.pdb
+C:\Users\rkt\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\rkt\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rkt\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rkt\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rkt\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rkt\Desktop\App\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.AssemblyReference.cache
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.CodigoPostal.resources
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Livraria.resources
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Livro.resources
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.SmartBooks.resources
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Properties.Resources.resources
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Utilizador.resources
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.GenerateResource.cache
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.AssemblyInfoInputs.cache
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.AssemblyInfo.cs
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.CoreCompileInputs.cache
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.CopyComplete
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.dll
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.pdb
+C:\Users\rkt\Desktop\App\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.genruntimeconfig.cache
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.exe
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.deps.json
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.runtimeconfig.json
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.runtimeconfig.dev.json
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.dll
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\bin\Debug\netcoreapp3.1\SmartBooks.pdb
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.AssemblyReference.cache
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.CodigoPostal.resources
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Livraria.resources
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Livro.resources
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.SmartBooks.resources
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Properties.Resources.resources
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.Utilizador.resources
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.GenerateResource.cache
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.GeneratedMSBuildEditorConfig.editorconfig
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.AssemblyInfoInputs.cache
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.AssemblyInfo.cs
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.CoreCompileInputs.cache
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.csproj.CopyComplete
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.dll
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.pdb
+F:\2Ano\Sistemas de Armazenamento de Dados\TP_2022_Etapa_4_-_17010_23155_23488\SmartBooks\obj\Debug\netcoreapp3.1\SmartBooks.genruntimeconfig.cache
